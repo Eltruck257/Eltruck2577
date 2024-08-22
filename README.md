@@ -2,7 +2,7 @@
 
 Meu nome é Tulio 
 
--Estou estudando na [Alura](https
+-Estou estudando na [Alura](https://www.alura.com.br)
 -Estou me desevolvendo na linguagem JavaScript
 -Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
